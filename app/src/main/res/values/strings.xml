@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FHSTPGroupC</string>
+    <string name="app_name" translatable="false">FHSTPGroupC</string>
+    <string name="greeting">Hello there!</string>
+    <string name="battery_warning">Battery warning!</string>
 </resources>
